@@ -9,5 +9,6 @@
 * push - sends file/update to the repos on github(now it's not only on your machine, but also is on the server somewhere there)
 * clone - gets a local copy of repos from github(get the link in the green button of repos on GitHub)
 * restore --staged - if you want to do more changes in file, but it's already added, use this
-* checkout 'branch name' - move between branches
+* checkout 'branch name' - move between branches(if there's no branch with a name you input, the new branch will be created automatically)
 * fetch - get updates from GitHub(if you did them there)
+* branch - create new branch
