@@ -1,7 +1,7 @@
-#test Repo
+## test Repo
 
 
-##Git's commands:
+### Git's commands:
 *status - shows the status of the repos(is all up to date or something is new/modified and needs to be discarded or updated)
 *add - adds the chosen file to some kind of transfer zone, so then you'll be able to make comments about changes
 *discard - all the changes of the file can be removed, like they have never been done(some kind of ctrl+z, but for all changes at once)
